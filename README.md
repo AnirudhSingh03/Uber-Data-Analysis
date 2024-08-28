@@ -25,7 +25,7 @@
  
  dropoff_latitude - the latitude where the meter was disengaged
 
- # Conclusions
+ # Conclusions :
  June: The month of June recorded the maximum trip distances, indicating that trips during this month were generally longer compared to other months. 
  
  May: had the highest number of passengers, making it the month with the most travel activity. It also generated the highest fare amounts, suggesting that May was 
