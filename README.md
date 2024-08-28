@@ -8,6 +8,7 @@
  
  # Schema description :
  The dataset contains the following fields :
+ 
  key - a unique identifier for each trip
  
  fare_amount - the cost of each trip in usd
